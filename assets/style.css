@@ -28,9 +28,10 @@ header ul{
 }
 
 .bottoniblu{
-    background-color: blue;
+    background-color: #0061FF;
     color: white;
-    padding: 1px 5px 1px 5px;
+    padding: 8px 10px 8px 10px;
+    border: none;
 }
 
 header nav ul:first-child{
@@ -41,3 +42,51 @@ header nav ul:last-child{
     flex-basis: 30%;
     justify-content: flex-end;
 }
+
+.introduzione{
+    width: 100%;
+    height: 75vh;
+    background-color: #B4D0E7;
+}
+
+#riquadro-introduzione{
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+
+#riquadro-introduzione h1{
+    text-align: center;
+    padding-top: 6%;
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 80px;
+    text-align: justify;
+}
+
+.header-content-left{
+    width: 30%;
+    margin-top: 3%;
+}
+
+.arrowdown{
+    width: 5%;
+    height: 7vh;
+    margin-top: 9%;
+    font-size: 50px;
+    color: black;
+}
+
+.jumbo img{
+    width: 120%;
+    height: 120%;
+}
+
+.jumbo{
+    position: absolute;
+    left: 40%;
+    bottom: -11%;
+}
+
