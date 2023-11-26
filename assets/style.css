@@ -192,3 +192,61 @@ main ul > li{
     width: 20%;
     margin: 2% 2% 0 0;
 }
+
+.partner-dropbox{
+    width: 60%;
+    height: 60vh;
+    margin: 8% auto;
+}
+
+.partner-dropbox img{
+    width: 700px;
+    height: 60vh;
+}
+
+.partner-dropbox div:first-child{
+    display: flex;
+}
+
+#scritte-partner{
+    padding: 5% 3% 0 3%;
+}
+
+#scritte-partner p{
+    margin-top: 7%;
+}
+
+#trova-un-partner{
+    background-color: white;
+    padding: 2%;
+    border: 2px solid black;
+    margin-top: 6%;
+}
+
+.piu-operazioni{
+    height: 120vh;
+    width: 60%;
+    margin: 8% auto;
+}
+
+.piu-operazioni .flex-list{
+    display: flex;
+    margin-top: 5%;
+    gap: 7%;
+}
+
+.piu-operazioni img{
+    width: 320px;
+}
+
+.piu-operazioni h2{
+    font-size: 25px;
+}
+
+.piu-operazioni h1{
+    font-size: 35px;
+}
+.descrizioni{
+    margin-top: 7%;
+    font-size: 15px;
+}
