@@ -92,7 +92,7 @@ header nav ul:last-child{
 
 .piani-buisness{
     width: 60%;
-    height: 103vh;
+    height: 98vh;
     margin: 6% auto;
 }
 
@@ -153,4 +153,42 @@ main ul > li{
 .linee-piccole{
     margin-block: 10%;
     width: 15%;
+}
+
+
+.enterprize{
+    width: 60%;
+    height: 30vh;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.enterprize h4{
+    padding-block: 1%;
+    text-align: center;
+}
+
+.testo-enterprise{
+    width: 70%;
+    height: 90%;
+    padding: 3%; 
+}
+
+.testo-enterprise h2{
+    padding-bottom: 2%;
+}
+
+.testo-enterprise p:last-child{
+    padding-top: 8%
+}
+
+#flex-container-team{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contatti{
+    height: 4vh;
+    width: 20%;
+    margin: 2% 2% 0 0;
 }
