@@ -364,3 +364,58 @@ main ul > li{
     border: none;
 }
 
+.domande-frequenti{
+    width: 60%;
+    height: 45vh;
+    margin: 0 auto;
+}
+
+.domande-frequenti hr{
+    margin-block: 3%;
+    color: lightslategray;
+}
+
+.domande-frequenti h1{
+    font-size: 30px;
+}
+
+.domande-frequenti ul > li{
+    display: flex;
+    gap: 35%;
+}
+
+footer{
+    background-color: black;
+}
+
+.liste{
+    width: 70%;
+    height: 70vh;
+    margin: 0 auto;
+    color: white;
+}
+
+.flex-liste{
+    display: flex;
+    gap: 10%;
+}
+
+.liste ul{
+    list-style-type: none;
+    padding-top: 5%;
+}
+
+.liste ul h3{
+    padding-bottom: 20%;
+}
+
+.liste ul > li{
+    padding-bottom: 6%;
+}
+
+footer hr{
+    border: 1px solid white;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    width: 10%;
+}
